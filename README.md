@@ -86,4 +86,10 @@ Digunakan untuk menyusun widget secara vertikal pada halaman form dan login.
 
 # dokumentasi
 
- 
+ <img width="1918" height="902" alt="tambah pesanan" src="https://github.com/user-attachments/assets/b1a9cc7e-ab63-4512-97fb-c5b2c1e86ba7" />
+
+<img width="1913" height="902" alt="daftar pesanan web" src="https://github.com/user-attachments/assets/f7edb576-c76d-4147-a5a3-8c250e25f02f" />
+
+<img width="1908" height="915" alt="ss hasil pesanan" src="https://github.com/user-attachments/assets/d615e6b1-1891-4065-8da7-5507aa04c06a" />
+
+<img width="1908" height="917" alt="ss gmail" src="https://github.com/user-attachments/assets/5c82fd41-a0ec-490b-8a1a-21dd69821267" />
